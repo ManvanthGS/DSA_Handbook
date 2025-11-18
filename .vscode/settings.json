@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "xaver.clang-format",
+
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+    "C_Cpp.codeAnalysis.clangTidy.config": "file",
+    "C_Cpp.codeAnalysis.clangTidy.useBuildPath": true,
+
+    "C_Cpp.clang_format_fallbackStyle": "None",
+    "C_Cpp.formatting": "clangFormat",
+
+    "C_Cpp.intelliSenseEngine": "default"
+}
