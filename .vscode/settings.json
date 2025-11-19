@@ -9,5 +9,12 @@
     "C_Cpp.clang_format_fallbackStyle": "None",
     "C_Cpp.formatting": "clangFormat",
 
-    "C_Cpp.intelliSenseEngine": "default"
+    "C_Cpp.intelliSenseEngine": "default",
+    "files.associations": {
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "ranges": "cpp",
+        "span": "cpp"
+    }
 }
